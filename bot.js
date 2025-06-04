@@ -16,7 +16,7 @@ console.log(chalk.hex('#FFA500').bold(`
 ║  ${chalk.hex('#00FFFF')('██║  ██║╚██████╔╝   ██║   ╚██████╔╝')}                     ${chalk.hex('#FF00FF')('★')} ${chalk.hex('#FFFF00')('★')} ${chalk.hex('#00FF00')('★')}  ║
 ║  ${chalk.hex('#00FFFF')('╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝')}                      ${chalk.hex('#FF00FF')('★')} ${chalk.hex('#FFFF00')('★')} ${chalk.hex('#00FF00')('★')}  ║
 ║                                                                            ║
-║  ${chalk.hex('#FF0000').bold('ＢＯＴ')} ${chalk.hex('#FFFF00').bold('ＡＵＴＯ')} ${chalk.hex('#00FF00').bold('ＲＥＧＩＳＴＥＲ')} ${chalk.hex('#00FFFF').bold('ＬＵＸＵＲＲＹ')}  ║
+║  ${chalk.hex('#FF0000').bold('ＢＯＴ')} ${chalk.hex('#FFFF00').bold('ＡＵＴＯ')} ${chalk.hex('#00FF00').bold('ＲＥＧＩＳＴＥＲ')} ${chalk.hex('#00FFFF').bold('ＦＬＵＥＮＣＥ')}  ║
 ║                                                                            ║
 ║  ${chalk.hex('#FF69B4')('✿')} ${chalk.cyan('Telegram: https://t.me/airdropdiggerid')} ${chalk.hex('#FF69B4')('✿')}  ║
 ║                                                                            ║
